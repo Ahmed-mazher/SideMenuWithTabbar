@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SideMenuWithTabbar
 //
-//  Created by Rivile on 8/2/21.
+//  Created by Ahmed Mazher on 8/2/21.
 //
 
 import UIKit

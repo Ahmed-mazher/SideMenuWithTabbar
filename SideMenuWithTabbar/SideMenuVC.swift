@@ -1,19 +1,18 @@
 //
-//  ViewController.swift
+//  SideMenuVC.swift
 //  SideMenuWithTabbar
 //
-//  Created by Rivile on 8/2/21.
+//  Created by Ahmed Mazher on 8/2/21.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class SideMenuVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
 
-
 }
-

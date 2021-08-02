@@ -9,21 +9,33 @@
 /* Begin PBXBuildFile section */
 		F8D97AA626B81F8F00B3FACA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D97AA526B81F8F00B3FACA /* AppDelegate.swift */; };
 		F8D97AA826B81F8F00B3FACA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D97AA726B81F8F00B3FACA /* SceneDelegate.swift */; };
-		F8D97AAA26B81F8F00B3FACA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D97AA926B81F8F00B3FACA /* ViewController.swift */; };
 		F8D97AAD26B81F8F00B3FACA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8D97AAB26B81F8F00B3FACA /* Main.storyboard */; };
 		F8D97AAF26B81F9000B3FACA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8D97AAE26B81F9000B3FACA /* Assets.xcassets */; };
 		F8D97AB226B81F9000B3FACA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8D97AB026B81F9000B3FACA /* LaunchScreen.storyboard */; };
+		F8D97ABB26B8217000B3FACA /* TabbarAndSideMenuContainerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D97AB926B8217000B3FACA /* TabbarAndSideMenuContainerVC.swift */; };
+		F8D97ABC26B8217000B3FACA /* SideMenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D97ABA26B8217000B3FACA /* SideMenuVC.swift */; };
+		F8D97AC326B821B400B3FACA /* OffersVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D97ABE26B821B300B3FACA /* OffersVC.swift */; };
+		F8D97AC426B821B400B3FACA /* CartVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D97ABF26B821B300B3FACA /* CartVC.swift */; };
+		F8D97AC526B821B400B3FACA /* SearchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D97AC026B821B400B3FACA /* SearchVC.swift */; };
+		F8D97AC626B821B400B3FACA /* FavouriteVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D97AC126B821B400B3FACA /* FavouriteVC.swift */; };
+		F8D97AC726B821B400B3FACA /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D97AC226B821B400B3FACA /* HomeVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F8D97AA226B81F8F00B3FACA /* SideMenuWithTabbar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SideMenuWithTabbar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8D97AA526B81F8F00B3FACA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F8D97AA726B81F8F00B3FACA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		F8D97AA926B81F8F00B3FACA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F8D97AAC26B81F8F00B3FACA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F8D97AAE26B81F9000B3FACA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8D97AB126B81F9000B3FACA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F8D97AB326B81F9000B3FACA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F8D97AB926B8217000B3FACA /* TabbarAndSideMenuContainerVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabbarAndSideMenuContainerVC.swift; sourceTree = "<group>"; };
+		F8D97ABA26B8217000B3FACA /* SideMenuVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideMenuVC.swift; sourceTree = "<group>"; };
+		F8D97ABE26B821B300B3FACA /* OffersVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OffersVC.swift; sourceTree = "<group>"; };
+		F8D97ABF26B821B300B3FACA /* CartVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CartVC.swift; sourceTree = "<group>"; };
+		F8D97AC026B821B400B3FACA /* SearchVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchVC.swift; sourceTree = "<group>"; };
+		F8D97AC126B821B400B3FACA /* FavouriteVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavouriteVC.swift; sourceTree = "<group>"; };
+		F8D97AC226B821B400B3FACA /* HomeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +70,27 @@
 			children = (
 				F8D97AA526B81F8F00B3FACA /* AppDelegate.swift */,
 				F8D97AA726B81F8F00B3FACA /* SceneDelegate.swift */,
-				F8D97AA926B81F8F00B3FACA /* ViewController.swift */,
+				F8D97AB926B8217000B3FACA /* TabbarAndSideMenuContainerVC.swift */,
+				F8D97ABA26B8217000B3FACA /* SideMenuVC.swift */,
+				F8D97ABD26B8217900B3FACA /* TabbarControllers */,
 				F8D97AAB26B81F8F00B3FACA /* Main.storyboard */,
 				F8D97AAE26B81F9000B3FACA /* Assets.xcassets */,
 				F8D97AB026B81F9000B3FACA /* LaunchScreen.storyboard */,
 				F8D97AB326B81F9000B3FACA /* Info.plist */,
 			);
 			path = SideMenuWithTabbar;
+			sourceTree = "<group>";
+		};
+		F8D97ABD26B8217900B3FACA /* TabbarControllers */ = {
+			isa = PBXGroup;
+			children = (
+				F8D97ABF26B821B300B3FACA /* CartVC.swift */,
+				F8D97AC126B821B400B3FACA /* FavouriteVC.swift */,
+				F8D97AC226B821B400B3FACA /* HomeVC.swift */,
+				F8D97ABE26B821B300B3FACA /* OffersVC.swift */,
+				F8D97AC026B821B400B3FACA /* SearchVC.swift */,
+			);
+			path = TabbarControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,9 +163,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8D97AAA26B81F8F00B3FACA /* ViewController.swift in Sources */,
 				F8D97AA626B81F8F00B3FACA /* AppDelegate.swift in Sources */,
 				F8D97AA826B81F8F00B3FACA /* SceneDelegate.swift in Sources */,
+				F8D97AC626B821B400B3FACA /* FavouriteVC.swift in Sources */,
+				F8D97AC726B821B400B3FACA /* HomeVC.swift in Sources */,
+				F8D97AC426B821B400B3FACA /* CartVC.swift in Sources */,
+				F8D97ABC26B8217000B3FACA /* SideMenuVC.swift in Sources */,
+				F8D97AC326B821B400B3FACA /* OffersVC.swift in Sources */,
+				F8D97ABB26B8217000B3FACA /* TabbarAndSideMenuContainerVC.swift in Sources */,
+				F8D97AC526B821B400B3FACA /* SearchVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
